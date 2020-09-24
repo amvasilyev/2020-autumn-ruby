@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 def main
   file_text = read_txt_file(File.expand_path('data.txt', __dir__))
   words_array = text_to_words(file_text)
