@@ -1,4 +1,3 @@
-
 class MyArray
   def initialize(arr)
     @arr = arr

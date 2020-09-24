@@ -5,7 +5,7 @@ sum = 0
 end
 puts sum
 
-value = "some shape"
+value = 'some shape'
 [1, 2].each do |value|
   puts "#{value}: #{value}"
 end
