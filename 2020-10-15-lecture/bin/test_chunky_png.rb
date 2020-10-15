@@ -1,5 +1,8 @@
 # frozen_string_literal: true
 
+require 'rubygems'
+require 'bundler/setup'
+
 require 'chunky_png'
 
 # Creating an image from scratch, save as an interlaced PNG
